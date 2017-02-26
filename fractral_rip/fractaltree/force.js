@@ -1,4 +1,0 @@
-function force(object){
-
-	
-}
